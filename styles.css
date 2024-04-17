@@ -4,3 +4,8 @@ body{
 .title {
 	color: #5C6AC4;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
