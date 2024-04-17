@@ -1,6 +1,6 @@
 body{
   padding: 25px;
-  color: black;
+  color: black !important;
 }
 .title {
 	color: #5C6AC4;
@@ -8,4 +8,5 @@ body{
 
 a {
   text-decoration: none;
-  color: black;}
+  color: black !important;
+}
